@@ -201,7 +201,7 @@
 <div class="tooltip tooltip-left" data-tip="этаж">
   <button class="btn">1</button>
 </div>
-<div class="tooltip tooltip-left" data-tip="$">
+<div class="tooltip tooltip-left" data-tip="&euro;">
   <button class="btn">10000</button>
 </div>
 </div>
